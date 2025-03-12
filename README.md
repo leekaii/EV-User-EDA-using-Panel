@@ -4,3 +4,7 @@ Features
 - Clustering of EV Reviews: Uses K-means clustering to group user reviews into distinct clusters for analysis.
 - Market Insights: Clusters reveal actionable insights about the EV market, including user preferences, common complaints, and areas of improvement.
 - Data-Driven Decisions: Manufacturers and businesses can use the results to understand user needs and improve their offerings.
+
+Image of the App:
+
+![image](https://github.com/user-attachments/assets/2d7128f6-787d-4175-a34c-d8d025c94da0)
